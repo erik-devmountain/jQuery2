@@ -1,0 +1,13 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+}
+
+/*#newTaskForm {
+  display: none;
+}*/
+
+.panel {
+  display: inline-block;
+  width: 33%;
+}
